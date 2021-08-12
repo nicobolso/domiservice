@@ -1,10 +1,11 @@
 [
     {
-       "Marca": "jjjj",
-        "Descripcion": "jjjj",
-        "Categoria": "jjjj",
-        "Precios": "jjjjj",
-        "Valoracion": "jjjj",
-        "Imagen":"jjjjj"
+       "marca": "jjjj",
+        "descripcion": "jjjj",
+        "categoria": "jjjj",
+        "precios": "jjjjj",
+        "cantidad de ventas": 121232,
+        "valoracion": "jjjj",
+        "imagen":"jjjjj"
     }
 ]

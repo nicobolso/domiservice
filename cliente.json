@@ -1,9 +1,11 @@
 [
     {
-        "Domicilio" : "jjjjj",
-        "Cedula de Identidad": "jjjj",
-        "Contaco": "jjjjj"
+      
+        "domicilio" : "jjjjj",
+        "ci": "jjjj",
+        "contaco": "jjjjj"
+      
     }
-    
-  
+
 ]
+  

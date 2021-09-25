@@ -1,0 +1,51 @@
+[
+    {
+        "id": "dptannat",
+        "name": "Don Pascual Tannat",
+        "descripton": "Mediante sofisticadas técnicas, los enólogos de Juanicó logran una gran extracción de antocianos y aromas de la piel, minimizando la extracción de las semillas generosas en taninos. De este modo se consigue un vino joven, con mucha fruta y final suave sin astringencia.",
+        "cost":" $ 289",
+        "images":"imagenes/don-pascual-varietal.jpg"
+    },
+    {
+        "id":"cdcs",
+        "name": "Casillero del Diablo Cabernet Sauvignon",
+        "descripton": "Es un vino de vivo color rojo rubí con tintes brillantes. A la nariz, la expresión de cassis en este vino demuestra a la perfección el valle central y su riqueza de frutas, tales como cerezas y ciruelas. La barrica aporta longitud gracias a sus notas de tostado y café.",
+        "cost":" $ 499 ",
+        "images":"imagenes/don-pascual-varietal.jpg"
+    },
+    {
+        "id":"sttinto",
+        "name":"Santa Teresa Tinto",
+        "description":"Es un tipo de vino procedente mayormente de mostos de uvas tintas, con la elaboración pertinente para conseguir la difusión de la materia colorante que contienen los hollejos de la uva",
+        "cost":"$ 122",
+        "images":"imagenes/santa-teresa-tinto.jpg"
+    },
+    {
+        "id":"heinbot",
+        "name":"Heineken Botella 1L",
+        "description":"Nacida en Amsterdam y criada por el mundo, Heineken es una cerveza premium de gran tradición y calidad. Cebada malteada, agua, lúpulo y la exclusiva levadura son los ingredientes 100% naturales que le entregan su distintivo sabor y su inigualable calidad.",
+        "cost":"$ 181",
+        "images":"imagenes/heineken.jpg"
+    },
+    {
+        "id":"schbot",
+        "name":"Schneider Botella 1L",
+        "description":" Roja aroma a malta moderado, con aromáticos tostados y un sutil final a caramelo. Sabor asociado a la malta caramelo con un amargor del lúpulo moderado que proporciona un buen balance final. De color cobre rojizo intenso y brillante, con una espuma persistente. Buen cuerpo.",
+        "cost":"$ 133",
+        "images":"imagenes/shneider-1l.jpg"
+    },
+    {
+        "id":"impbot",
+        "name":"Imperial Botella 1L",
+        "description":"Presenta un amargor leve a moderado y su contenido de alcohol es levemente superior al resto de las lagers argentinas (5.5% en vez de 4.7%) esto la hace más robusta y a su vez refrescante.",
+        "cost":"$ 160",
+        "images":"imagenes/imperial-1l.jpg"
+    },
+    {
+        "id":"johneg",
+        "name":"Johnnie Walker Black Label",
+        "description":"Es una mezcla exclusiva con whiskies madurados por al menos 12 años, reúne sabores de los 4 rincones de Escocia para crear una experiencia compleja, profunda y enriquecedora.Jhonnie Walker es una marca de whisky escocés propiedad de Diageo, creada en Kilmarnock, East Ayrshire, al oeste de Escocia.",
+        "cost":" $ 1990",
+        "images":"imagenes/johny.jpg"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "name":"publicidad",
+    "images":[
+        "imagenes/publicidad-don-pascual",
+        "imagenes/publicidad-santa-teresa",
+        "imagenes/publicidad-casillero",
+        "imagenes/publicidad-heineken",
+        "imagenes/publicidad-schneider",
+        "imagenes/publicidad-imperial",
+        "imagenes/publicidad-johnnie"
+    ]
+}
